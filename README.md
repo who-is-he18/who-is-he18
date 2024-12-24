@@ -16,7 +16,7 @@ Hi there! 👋 My name is Geoffrey Waiganjo, a passionate software engineer and 
 ![](https://github-profile-trophy.vercel.app/?username=who-is-he18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=who-is-he18&limit=5&theme=dark&combine_all_yearly_contributions=true)
