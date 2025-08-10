@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 My name is Geoffrey Waiganjo, a passionate software engineer and recent graduate from Moringa School. During my journey at Moringa, I honed my skills in various technologies, including HTML, CSS, JavaScript, React, Python, and Flask.<br><br>Currently, I am channeling my creativity and problem-solving skills into several exciting projects:<br><br>JobHive Application: A platform connecting employers with job seekers.<br>BikeHire Application: Simplifying bike rentals for users.<br>Portfolio Website: Showcasing my work and growth as a developer.<br>Plus, other innovative ideas I’m exploring!<br>I love building solutions that make an impact, and I’m always eager to learn and grow in this ever-evolving field. Let’s connect and create something amazing together! 🚀<br><br>
+Geoffrey Waiganjo, a passionate software engineer and recent graduate from Moringa School. During my journey at Moringa, I honed my skills in various technologies, including HTML, CSS, JavaScript, React, Python, and Flask.<br><br>Currently, I am channeling my creativity and problem-solving skills into several exciting projects
 
 
 ## 🌐 Socials:
